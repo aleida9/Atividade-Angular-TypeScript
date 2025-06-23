@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-modulo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node principal.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
